@@ -1,5 +1,6 @@
 ### Acknowledgement & Transparency
 I heavily researched the Clang/LLVM codebase and developed the core architectural ideas for C*. However, since I wanted to ensure technical soundness and structural clarity across these 1,399 lines, I collaborated deeply with AI to explore potential compiler solutions, validate logic, and draft this specification. I highly welcome your professional insights, critique, and guidance on any structural flaws, technical paradoxes, or unfeasible assumptions that might have been introduced during this co-authoring process.
+
 C*（シー・スター）プログラミング言語・アーキテクチャ仕様書【確定完全版 v12.0.0】
 ## 1. 第1章：開発思想とコア・コンセプト (CORE VISION & PHILOSOPHY)
 1.1: 言語の定義と具体的な用途（どこに使うか）
